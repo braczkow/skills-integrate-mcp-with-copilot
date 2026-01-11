@@ -1,0 +1,1 @@
+This PR redesigns the interface with a responsive layout and contextual, per-activity registration, streamlining user navigation and registration flows.
